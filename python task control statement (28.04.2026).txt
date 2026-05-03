@@ -1,0 +1,42 @@
+1.Write a Python program that:
+	1. Takes five input marks from the user.
+	2. Calculates the total of the marks.
+	3. Computes the average of the marks.
+	4. Assigns a grade based on the average using the following criteria:
+		• 90 and above: A+
+		• 80 to 89: A
+		• 70 to 79: B
+		• 60 to 69: C
+		• 50 to 59: D
+		• Below 50: F
+	5. Displays the total marks, average marks (formatted to two decimal places),
+	   and the assigned grade.
+
+2.Write a Python program that calculates the fine for overdue library books based
+  on the following conditions:
+	•	0 to 10 days → Fine is ₹1
+	•	11 to 20 days → Fine is ₹5
+	•	21 to 30 days → Fine is ₹10
+	•	More than 30 days → Print "fine not define for this range"
+3.Check Even or Odd
+	•	Write a Python program to check if a given number is even or odd using an 
+		if statement.
+
+4.Check Voting Eligibility
+	•	Ask the user for their age and check if they are eligible to 
+		vote (18 or older).
+
+5.Find the Largest Number
+	•	Take three numbers as input and print the largest one using if conditions.
+6.Check Leap Year
+	•	Write a program to check if a given year is a leap year or not.
+
+7.Check for Vowel or Consonant
+	•	Take a character as input and check if it’s a vowel (a, e, i, o, u) or
+		 a consonant.
+
+8.Check Positive, Negative, or Zero
+	•	Take a number as input and determine if it’s positive, negative, or zero.
+
+9.Divisibility Test
+	•	Write a program that checks if a number is divisible by both 5 and 7.
